@@ -1,0 +1,122 @@
+werkzeug, 89, 2022-09-15 00:08:46,089,  * Debugger is active!, WARNING
+werkzeug, 100, 2022-09-15 00:08:46,100,  * Debugger PIN: 278-845-003, INFO
+engineio.server, 501, 2022-09-15 00:08:46,501, 3bdce06d6882460e80d45638b850c3d9: Sending packet OPEN data {'sid': '3bdce06d6882460e80d45638b850c3d9', 'upgrades': ['websocket'], 'pingTimeout': 60000, 'pingInterval': 25000}, INFO
+engineio.server, 502, 2022-09-15 00:08:46,502, 3bdce06d6882460e80d45638b850c3d9: Sending packet MESSAGE data 0, INFO
+engineio.server, 514, 2022-09-15 00:08:46,514, 3bdce06d6882460e80d45638b850c3d9: Received packet MESSAGE data 0/chat, INFO
+engineio.server, 516, 2022-09-15 00:08:46,516, 3bdce06d6882460e80d45638b850c3d9: Sending packet MESSAGE data 0/chat, INFO
+engineio.server, 537, 2022-09-15 00:08:46,537, 3bdce06d6882460e80d45638b850c3d9: Received packet MESSAGE data 2/chat,["joined",{}], INFO
+socketio.server, 538, 2022-09-15 00:08:46,538, received event "joined" from 3bdce06d6882460e80d45638b850c3d9 [/chat], INFO
+socketio.server, 539, 2022-09-15 00:08:46,539, 3bdce06d6882460e80d45638b850c3d9 is entering room 1 [/chat], INFO
+socketio.server, 539, 2022-09-15 00:08:46,539, emitting event "status" to 1 [/chat], INFO
+engineio.server, 540, 2022-09-15 00:08:46,540, 3bdce06d6882460e80d45638b850c3d9: Sending packet MESSAGE data 2/chat,["status",{"msg":"3545\ub2d8\uc774 \uc785\uc7a5\ud558\uc168\uc2b5\ub2c8\ub2e4"}], INFO
+engineio.server, 816, 2022-09-15 00:08:46,816, 3bdce06d6882460e80d45638b850c3d9: Received request to upgrade to websocket, INFO
+engineio.server, 827, 2022-09-15 00:08:46,827, 3bdce06d6882460e80d45638b850c3d9: Upgrade to websocket successful, INFO
+engineio.server, 176, 2022-09-15 00:08:47,176, 3e8e60e2556d4d528e096a071d328016: Sending packet OPEN data {'sid': '3e8e60e2556d4d528e096a071d328016', 'upgrades': ['websocket'], 'pingTimeout': 60000, 'pingInterval': 25000}, INFO
+engineio.server, 177, 2022-09-15 00:08:47,177, 3e8e60e2556d4d528e096a071d328016: Sending packet MESSAGE data 0, INFO
+engineio.server, 194, 2022-09-15 00:08:47,194, 3e8e60e2556d4d528e096a071d328016: Received packet MESSAGE data 0/chat, INFO
+engineio.server, 196, 2022-09-15 00:08:47,196, 3e8e60e2556d4d528e096a071d328016: Sending packet MESSAGE data 0/chat, INFO
+engineio.server, 219, 2022-09-15 00:08:47,219, 3e8e60e2556d4d528e096a071d328016: Received packet MESSAGE data 2/chat,["joined",{}], INFO
+socketio.server, 220, 2022-09-15 00:08:47,220, received event "joined" from 3e8e60e2556d4d528e096a071d328016 [/chat], INFO
+socketio.server, 221, 2022-09-15 00:08:47,221, 3e8e60e2556d4d528e096a071d328016 is entering room 1 [/chat], INFO
+socketio.server, 222, 2022-09-15 00:08:47,222, emitting event "status" to 1 [/chat], INFO
+engineio.server, 223, 2022-09-15 00:08:47,223, 3bdce06d6882460e80d45638b850c3d9: Sending packet MESSAGE data 2/chat,["status",{"msg":"3545\ub2d8\uc774 \uc785\uc7a5\ud558\uc168\uc2b5\ub2c8\ub2e4"}], INFO
+engineio.server, 223, 2022-09-15 00:08:47,223, 3e8e60e2556d4d528e096a071d328016: Sending packet MESSAGE data 2/chat,["status",{"msg":"3545\ub2d8\uc774 \uc785\uc7a5\ud558\uc168\uc2b5\ub2c8\ub2e4"}], INFO
+engineio.server, 496, 2022-09-15 00:08:47,496, 3e8e60e2556d4d528e096a071d328016: Received request to upgrade to websocket, INFO
+engineio.server, 508, 2022-09-15 00:08:47,508, 3e8e60e2556d4d528e096a071d328016: Upgrade to websocket successful, INFO
+werkzeug, 497, 2022-09-15 00:08:50,497,  * Detected change in 'C:\\LSG\\Study\\Flask-Simple-Chat-main\\src\\app\\routes.py', reloading, INFO
+engineio.server, 224, 2022-09-15 00:08:51,224, Server initialized for eventlet., INFO
+werkzeug, 230, 2022-09-15 00:08:51,230,  * Debugger is active!, WARNING
+werkzeug, 239, 2022-09-15 00:08:51,239,  * Debugger PIN: 278-845-003, INFO
+engineio.server, 486, 2022-09-15 00:08:52,486, 648475053e294a319c02c25a6774f2b3: Sending packet OPEN data {'sid': '648475053e294a319c02c25a6774f2b3', 'upgrades': ['websocket'], 'pingTimeout': 60000, 'pingInterval': 25000}, INFO
+engineio.server, 487, 2022-09-15 00:08:52,487, 648475053e294a319c02c25a6774f2b3: Sending packet MESSAGE data 0, INFO
+engineio.server, 488, 2022-09-15 00:08:52,488, fae670b0791e4b23a642233d049295cd: Sending packet OPEN data {'sid': 'fae670b0791e4b23a642233d049295cd', 'upgrades': ['websocket'], 'pingTimeout': 60000, 'pingInterval': 25000}, INFO
+engineio.server, 489, 2022-09-15 00:08:52,489, fae670b0791e4b23a642233d049295cd: Sending packet MESSAGE data 0, INFO
+engineio.server, 501, 2022-09-15 00:08:52,501, 648475053e294a319c02c25a6774f2b3: Received packet MESSAGE data 0/chat, INFO
+engineio.server, 502, 2022-09-15 00:08:52,502, 648475053e294a319c02c25a6774f2b3: Sending packet MESSAGE data 0/chat, INFO
+engineio.server, 505, 2022-09-15 00:08:52,505, fae670b0791e4b23a642233d049295cd: Received packet MESSAGE data 0/chat, INFO
+engineio.server, 506, 2022-09-15 00:08:52,506, fae670b0791e4b23a642233d049295cd: Sending packet MESSAGE data 0/chat, INFO
+engineio.server, 524, 2022-09-15 00:08:52,524, 648475053e294a319c02c25a6774f2b3: Received packet MESSAGE data 2/chat,["joined",{}], INFO
+socketio.server, 524, 2022-09-15 00:08:52,524, received event "joined" from 648475053e294a319c02c25a6774f2b3 [/chat], INFO
+socketio.server, 527, 2022-09-15 00:08:52,527, 648475053e294a319c02c25a6774f2b3 is entering room 1 [/chat], INFO
+socketio.server, 528, 2022-09-15 00:08:52,528, emitting event "status" to 1 [/chat], INFO
+engineio.server, 528, 2022-09-15 00:08:52,528, 648475053e294a319c02c25a6774f2b3: Sending packet MESSAGE data 2/chat,["status",{"msg":"3545\ub2d8\uc774 \uc785\uc7a5\ud558\uc168\uc2b5\ub2c8\ub2e4"}], INFO
+engineio.server, 535, 2022-09-15 00:08:52,535, fae670b0791e4b23a642233d049295cd: Received packet MESSAGE data 2/chat,["joined",{}], INFO
+socketio.server, 536, 2022-09-15 00:08:52,536, received event "joined" from fae670b0791e4b23a642233d049295cd [/chat], INFO
+socketio.server, 538, 2022-09-15 00:08:52,538, fae670b0791e4b23a642233d049295cd is entering room 1 [/chat], INFO
+socketio.server, 539, 2022-09-15 00:08:52,539, emitting event "status" to 1 [/chat], INFO
+engineio.server, 539, 2022-09-15 00:08:52,539, 648475053e294a319c02c25a6774f2b3: Sending packet MESSAGE data 2/chat,["status",{"msg":"3545\ub2d8\uc774 \uc785\uc7a5\ud558\uc168\uc2b5\ub2c8\ub2e4"}], INFO
+engineio.server, 540, 2022-09-15 00:08:52,540, fae670b0791e4b23a642233d049295cd: Sending packet MESSAGE data 2/chat,["status",{"msg":"3545\ub2d8\uc774 \uc785\uc7a5\ud558\uc168\uc2b5\ub2c8\ub2e4"}], INFO
+engineio.server, 803, 2022-09-15 00:08:52,803, 648475053e294a319c02c25a6774f2b3: Received request to upgrade to websocket, INFO
+engineio.server, 820, 2022-09-15 00:08:52,820, fae670b0791e4b23a642233d049295cd: Received request to upgrade to websocket, INFO
+engineio.server, 824, 2022-09-15 00:08:52,824, 648475053e294a319c02c25a6774f2b3: Upgrade to websocket successful, INFO
+engineio.server, 839, 2022-09-15 00:08:52,839, fae670b0791e4b23a642233d049295cd: Upgrade to websocket successful, INFO
+engineio.server, 165, 2022-09-15 00:09:18,165, 648475053e294a319c02c25a6774f2b3: Received packet PING data None, INFO
+engineio.server, 165, 2022-09-15 00:09:18,165, 648475053e294a319c02c25a6774f2b3: Sending packet PONG data None, INFO
+engineio.server, 166, 2022-09-15 00:09:18,166, fae670b0791e4b23a642233d049295cd: Received packet PING data None, INFO
+engineio.server, 166, 2022-09-15 00:09:18,166, fae670b0791e4b23a642233d049295cd: Sending packet PONG data None, INFO
+engineio.server, 926, 2022-09-15 00:09:22,926, 648475053e294a319c02c25a6774f2b3: Received packet MESSAGE data 2/chat,["text",{"msg":"test"}], INFO
+socketio.server, 926, 2022-09-15 00:09:22,926, received event "text" from 648475053e294a319c02c25a6774f2b3 [/chat], INFO
+socketio.server, 926, 2022-09-15 00:09:22,926, emitting event "message" to 1 [/chat], INFO
+engineio.server, 927, 2022-09-15 00:09:22,927, 648475053e294a319c02c25a6774f2b3: Sending packet MESSAGE data 2/chat,["message",{"msg":"3545:test"}], INFO
+engineio.server, 927, 2022-09-15 00:09:22,927, fae670b0791e4b23a642233d049295cd: Sending packet MESSAGE data 2/chat,["message",{"msg":"3545:test"}], INFO
+engineio.server, 111, 2022-09-15 00:09:29,111, fae670b0791e4b23a642233d049295cd: Received packet MESSAGE data 2/chat,["text",{"msg":"plz_test"}], INFO
+socketio.server, 112, 2022-09-15 00:09:29,112, received event "text" from fae670b0791e4b23a642233d049295cd [/chat], INFO
+socketio.server, 112, 2022-09-15 00:09:29,112, emitting event "message" to 1 [/chat], INFO
+engineio.server, 113, 2022-09-15 00:09:29,113, 648475053e294a319c02c25a6774f2b3: Sending packet MESSAGE data 2/chat,["message",{"msg":"3545:plz_test"}], INFO
+engineio.server, 113, 2022-09-15 00:09:29,113, fae670b0791e4b23a642233d049295cd: Sending packet MESSAGE data 2/chat,["message",{"msg":"3545:plz_test"}], INFO
+engineio.server, 167, 2022-09-15 00:09:43,167, 648475053e294a319c02c25a6774f2b3: Received packet PING data None, INFO
+engineio.server, 168, 2022-09-15 00:09:43,168, 648475053e294a319c02c25a6774f2b3: Sending packet PONG data None, INFO
+engineio.server, 825, 2022-09-15 00:09:43,825, 648475053e294a319c02c25a6774f2b3: Received packet MESSAGE data 2/chat,0["left",{}], INFO
+socketio.server, 826, 2022-09-15 00:09:43,826, received event "left" from 648475053e294a319c02c25a6774f2b3 [/chat], INFO
+socketio.server, 827, 2022-09-15 00:09:43,827, 648475053e294a319c02c25a6774f2b3 is leaving room 1 [/chat], INFO
+socketio.server, 827, 2022-09-15 00:09:43,827, emitting event "status" to 1 [/chat], INFO
+engineio.server, 827, 2022-09-15 00:09:43,827, fae670b0791e4b23a642233d049295cd: Sending packet MESSAGE data 2/chat,["status",{"msg":"3545\ub2d8\uc774 \ud1f4\uc7a5\ud558\uc168\uc2b5\ub2c8\ub2e4"}], INFO
+engineio.server, 828, 2022-09-15 00:09:43,828, 648475053e294a319c02c25a6774f2b3: Sending packet MESSAGE data 3/chat,0[], INFO
+engineio.server, 829, 2022-09-15 00:09:43,829, 648475053e294a319c02c25a6774f2b3: Received packet MESSAGE data 1/chat, INFO
+engineio.server, 168, 2022-09-15 00:09:44,168, fae670b0791e4b23a642233d049295cd: Received packet PING data None, INFO
+engineio.server, 168, 2022-09-15 00:09:44,168, fae670b0791e4b23a642233d049295cd: Sending packet PONG data None, INFO
+engineio.server, 325, 2022-09-15 00:09:47,325, b15c85847e394f66b40fcc0fd19748a1: Sending packet OPEN data {'sid': 'b15c85847e394f66b40fcc0fd19748a1', 'upgrades': ['websocket'], 'pingTimeout': 60000, 'pingInterval': 25000}, INFO
+engineio.server, 326, 2022-09-15 00:09:47,326, b15c85847e394f66b40fcc0fd19748a1: Sending packet MESSAGE data 0, INFO
+engineio.server, 482, 2022-09-15 00:09:47,482, b15c85847e394f66b40fcc0fd19748a1: Received packet MESSAGE data 0/chat, INFO
+engineio.server, 484, 2022-09-15 00:09:47,484, b15c85847e394f66b40fcc0fd19748a1: Sending packet MESSAGE data 0/chat, INFO
+engineio.server, 500, 2022-09-15 00:09:47,500, b15c85847e394f66b40fcc0fd19748a1: Received packet MESSAGE data 2/chat,["joined",{}], INFO
+socketio.server, 500, 2022-09-15 00:09:47,500, received event "joined" from b15c85847e394f66b40fcc0fd19748a1 [/chat], INFO
+socketio.server, 502, 2022-09-15 00:09:47,502, b15c85847e394f66b40fcc0fd19748a1 is entering room 1 [/chat], INFO
+socketio.server, 502, 2022-09-15 00:09:47,502, emitting event "status" to 1 [/chat], INFO
+engineio.server, 503, 2022-09-15 00:09:47,503, fae670b0791e4b23a642233d049295cd: Sending packet MESSAGE data 2/chat,["status",{"msg":"123\ub2d8\uc774 \uc785\uc7a5\ud558\uc168\uc2b5\ub2c8\ub2e4"}], INFO
+engineio.server, 503, 2022-09-15 00:09:47,503, b15c85847e394f66b40fcc0fd19748a1: Sending packet MESSAGE data 2/chat,["status",{"msg":"123\ub2d8\uc774 \uc785\uc7a5\ud558\uc168\uc2b5\ub2c8\ub2e4"}], INFO
+engineio.server, 786, 2022-09-15 00:09:47,786, b15c85847e394f66b40fcc0fd19748a1: Received request to upgrade to websocket, INFO
+engineio.server, 795, 2022-09-15 00:09:47,795, b15c85847e394f66b40fcc0fd19748a1: Upgrade to websocket successful, INFO
+engineio.server, 509, 2022-09-15 00:09:50,509, b15c85847e394f66b40fcc0fd19748a1: Received packet MESSAGE data 2/chat,["text",{"msg":"test"}], INFO
+socketio.server, 510, 2022-09-15 00:09:50,510, received event "text" from b15c85847e394f66b40fcc0fd19748a1 [/chat], INFO
+socketio.server, 511, 2022-09-15 00:09:50,511, emitting event "message" to 1 [/chat], INFO
+engineio.server, 511, 2022-09-15 00:09:50,511, fae670b0791e4b23a642233d049295cd: Sending packet MESSAGE data 2/chat,["message",{"msg":"123:test"}], INFO
+engineio.server, 512, 2022-09-15 00:09:50,512, b15c85847e394f66b40fcc0fd19748a1: Sending packet MESSAGE data 2/chat,["message",{"msg":"123:test"}], INFO
+engineio.server, 451, 2022-09-15 00:10:09,451, fae670b0791e4b23a642233d049295cd: Received packet PING data None, INFO
+engineio.server, 451, 2022-09-15 00:10:09,451, fae670b0791e4b23a642233d049295cd: Sending packet PONG data None, INFO
+engineio.server, 165, 2022-09-15 00:10:13,165, b15c85847e394f66b40fcc0fd19748a1: Received packet PING data None, INFO
+engineio.server, 166, 2022-09-15 00:10:13,166, b15c85847e394f66b40fcc0fd19748a1: Sending packet PONG data None, INFO
+engineio.server, 166, 2022-09-15 00:10:35,166, fae670b0791e4b23a642233d049295cd: Received packet PING data None, INFO
+engineio.server, 167, 2022-09-15 00:10:35,167, fae670b0791e4b23a642233d049295cd: Sending packet PONG data None, INFO
+engineio.server, 164, 2022-09-15 00:10:39,164, b15c85847e394f66b40fcc0fd19748a1: Received packet PING data None, INFO
+engineio.server, 165, 2022-09-15 00:10:39,165, b15c85847e394f66b40fcc0fd19748a1: Sending packet PONG data None, INFO
+engineio.server, 164, 2022-09-15 00:11:01,164, fae670b0791e4b23a642233d049295cd: Received packet PING data None, INFO
+engineio.server, 164, 2022-09-15 00:11:01,164, fae670b0791e4b23a642233d049295cd: Sending packet PONG data None, INFO
+engineio.server, 165, 2022-09-15 00:11:05,165, b15c85847e394f66b40fcc0fd19748a1: Received packet PING data None, INFO
+engineio.server, 166, 2022-09-15 00:11:05,166, b15c85847e394f66b40fcc0fd19748a1: Sending packet PONG data None, INFO
+engineio.server, 164, 2022-09-15 00:11:27,164, fae670b0791e4b23a642233d049295cd: Received packet PING data None, INFO
+engineio.server, 165, 2022-09-15 00:11:27,165, fae670b0791e4b23a642233d049295cd: Sending packet PONG data None, INFO
+engineio.server, 165, 2022-09-15 00:11:31,165, b15c85847e394f66b40fcc0fd19748a1: Received packet PING data None, INFO
+engineio.server, 166, 2022-09-15 00:11:31,166, b15c85847e394f66b40fcc0fd19748a1: Sending packet PONG data None, INFO
+engineio.server, 165, 2022-09-15 00:11:53,165, fae670b0791e4b23a642233d049295cd: Received packet PING data None, INFO
+engineio.server, 165, 2022-09-15 00:11:53,165, fae670b0791e4b23a642233d049295cd: Sending packet PONG data None, INFO
+engineio.server, 165, 2022-09-15 00:11:57,165, b15c85847e394f66b40fcc0fd19748a1: Received packet PING data None, INFO
+engineio.server, 166, 2022-09-15 00:11:57,166, b15c85847e394f66b40fcc0fd19748a1: Sending packet PONG data None, INFO
+engineio.server, 164, 2022-09-15 00:12:19,164, fae670b0791e4b23a642233d049295cd: Received packet PING data None, INFO
+engineio.server, 165, 2022-09-15 00:12:19,165, fae670b0791e4b23a642233d049295cd: Sending packet PONG data None, INFO
+engineio.server, 165, 2022-09-15 00:12:23,165, b15c85847e394f66b40fcc0fd19748a1: Received packet PING data None, INFO
+engineio.server, 166, 2022-09-15 00:12:23,166, b15c85847e394f66b40fcc0fd19748a1: Sending packet PONG data None, INFO
+engineio.server, 165, 2022-09-15 00:12:45,165, fae670b0791e4b23a642233d049295cd: Received packet PING data None, INFO
+engineio.server, 165, 2022-09-15 00:12:45,165, fae670b0791e4b23a642233d049295cd: Sending packet PONG data None, INFO
+engineio.server, 165, 2022-09-15 00:12:49,165, b15c85847e394f66b40fcc0fd19748a1: Received packet PING data None, INFO
+engineio.server, 165, 2022-09-15 00:12:49,165, b15c85847e394f66b40fcc0fd19748a1: Sending packet PONG data None, INFO
