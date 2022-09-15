@@ -22,6 +22,10 @@ wsgi starting up on http://127.0.0.1:5000
 ...
 ```
 
+# Locust Screen Shot
+
+![total_requests_per_second_1663237202](https://user-images.githubusercontent.com/83073121/190412872-551cc257-c1bc-46d1-a106-0cbcbca091a5.png)
+
 
 
 # References
